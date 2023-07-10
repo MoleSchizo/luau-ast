@@ -1,0 +1,14 @@
+Basic Luau AST
+============
+
+Copyright (c) 2023 Mole
+This project is licensed under the MIT License.
+
+DISCLAIMER: This project is not perfect, It's a work in progress and is not intended for production use.
+It is a personal project created for the purpose of learning about Abstract Syntax Trees (ASTs)
+and exploring the Luau Language. Therefore, it may contain incomplete or experimental features.
+
+Please use this code with caution and be aware that it may not be suitable for all use cases.
+Any reliance on this project for production purposes is at your own risk.
+
+This project is not affiliated with ROBLOX or any other organization.
