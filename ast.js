@@ -1,5 +1,5 @@
 /*
-  Luau Language AST: Abstract Syntax Tree
+  Basic Luau Language AST: Abstract Syntax Tree
 
   Copyright (c) 2023 Mole
   This project is licensed under the MIT License.
